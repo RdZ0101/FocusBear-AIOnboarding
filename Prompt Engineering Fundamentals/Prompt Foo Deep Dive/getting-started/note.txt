@@ -1,0 +1,5 @@
+curl https://api.openai.com/v1/models \
+  -H "Authorization: Bearer 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"
+
+
+curl https://api.openai.com/v1/models -H "Authorization: Bearer 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"

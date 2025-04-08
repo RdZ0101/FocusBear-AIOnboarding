@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "name": "getting-started",
+  "version": "1.0.0",
+  "description": "This is a simple example that demonstrates the basic functionality of promptfoo. It tests two different translation prompts across multiple language models.",
+  "main": "HP.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

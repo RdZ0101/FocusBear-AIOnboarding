@@ -350,4 +350,4 @@ providers:
     config:
       temperature: 0
       max_tokens: 1024
-      apiKey: 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
+      apiKey: 
